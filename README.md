@@ -81,13 +81,13 @@ Bug Detection → One Click → Auto JIRA Ticket + Live Dashboard
 ## 🎯 Tech Stack
 
 **Languages & Frameworks:**
-`Python` `JavaScript` `Node.js` `React` `FastAPI`
+`Python` `Jira Rest API`
 
 **DevOps & Cloud:**
 `AWS` `Docker` `Git` `Linux` `Bash`
 
 **Monitoring & Data:**
-`Grafana` `Prometheus` `ELK Stack` `SQL`
+`Grafana` `Prometheus`  `SQL`
 
 **Currently Learning:**
 `Kubernetes` `Jenkins` `Terraform` `Ansible`
