@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 👋 Hi, I'm a Developer who built a tool that saves teams 1000+ hours!
 
@@ -44,9 +44,9 @@
 - ☕ **Problem-solving approach** - Breaking down complex problems
 
 ## 📫 How to reach me:
-- **Email:** your.email@gmail.com  
-- **LinkedIn:** [Connect here](https://linkedin.com/in/YOUR_PROFILE)
-- **Portfolio:** [View my projects](https://your-portfolio.com)
+- **Email:** ayushavduth265@gmail.com  
+- **LinkedIn:** [Connect here](https://www.linkedin.com/in/ayush-avduth-a584b627b/)
+
 
 ## 😄 Pronouns: 
 He/Him
@@ -94,14 +94,6 @@ Bug Detection → One Click → Auto JIRA Ticket + Live Dashboard
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🏃‍♂️ The Mumbai→Pune Story
 
 Completed 180km relay run from Mumbai to Pune. Why this matters for tech support:
@@ -114,4 +106,4 @@ Completed 180km relay run from Mumbai to Pune. Why this matters for tech support
 
 **💭 "From marathon endurance to debugging persistence - I bring the same energy to every support ticket!"**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+
